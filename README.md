@@ -34,11 +34,12 @@ An enterprise-grade, interactive web application built with **R Shiny** that per
 
 ## 📊 Dashboard Preview
 
-> **Note to Author:** Take screenshots of the "Head-to-Head" tab and the "Machine Learning" tab and drag them into this README once you upload it to GitHub!
+<img width="1918" height="902" alt="Screenshot 2026-05-15 234052" src="https://github.com/user-attachments/assets/89f66e09-9baa-4803-80da-4bc29da4345c" />
+<img width="1918" height="898" alt="Screenshot 2026-05-15 234202" src="https://github.com/user-attachments/assets/56c47926-3add-4d15-aca1-3a71d49db6f7" />
+<img width="1918" height="900" alt="Screenshot 2026-05-15 234147" src="https://github.com/user-attachments/assets/3169ad32-5959-4f61-a12c-6d04de3f4864" />
+<img width="1917" height="903" alt="Screenshot 2026-05-15 234119" src="https://github.com/user-attachments/assets/45be4165-06b5-4767-8836-422ddf17faae" />
 
 ## 👨‍💻 Author
 
-**[Your Name Here]** 
-*Data Analyst / Data Scientist*
-*   [LinkedIn](https://linkedin.com/in/yourprofile)
-*   [GitHub](https://github.com/yourusername)
+**[Vivek Singh]** 
+
