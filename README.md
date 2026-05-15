@@ -4,6 +4,8 @@
 ![Shiny](https://img.shields.io/badge/Shiny-Data_Dashboard-blue?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Visuals-orange?style=for-the-badge)
 
+**[🚀 View the Live Interactive Dashboard Here!](https://iamviveksingh.shinyapps.io/NBA-Advanced-Analytics/)**
+
 An enterprise-grade, interactive web application built with **R Shiny** that performs advanced statistical analysis and unsupervised machine learning on the 2024 NBA player dataset.
 
 ## 🌟 Key Features
